@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,azure,aws,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,ts,js,sql" />
 </p>
 
