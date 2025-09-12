@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka-casey&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=dotnet,ts" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,ts" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka-casey&layout=compact&theme=tokyonight" />
 </p>
 
 ![Luka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luka-casey&theme=tokyo-night)
