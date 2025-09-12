@@ -3,5 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,ts" />
+  <img src="https://skillicons.dev/icons?i=dotnet,ts,db" />
 </p>
+
