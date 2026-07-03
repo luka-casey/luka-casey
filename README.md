@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,ts,cs,linux" />
-</p>
-
-<p align="center">
 	<picture>
 		<source
 			srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka-casey&theme=tokyonight"
