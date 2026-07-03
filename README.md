@@ -13,13 +13,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luka-casey&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luka-casey&theme=tokyonight" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/luka-casey">
