@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka-casey&theme=tokyonight" />
 </p>
 
@@ -17,4 +17,4 @@
   <a href="https://github.com/luka-casey">
     <img src="https://komarev.com/ghpvc/?username=luka-casey" />
   </a>
-</p>
+</p> -->
